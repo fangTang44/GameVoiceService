@@ -1,0 +1,3 @@
+/home/fangtang/workspace/github/GameVoiceService/test/build/CMakeFiles/test.dir
+/home/fangtang/workspace/github/GameVoiceService/test/build/CMakeFiles/edit_cache.dir
+/home/fangtang/workspace/github/GameVoiceService/test/build/CMakeFiles/rebuild_cache.dir
